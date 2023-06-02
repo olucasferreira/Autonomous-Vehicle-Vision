@@ -1,5 +1,7 @@
 # Lane Detector
 
+`Projeto realizado em novembro de 2021.`
+
 Para usar o repositório é necessário ter o Python instalado na sua máquina. Recomendo usar a IDE PyCharm e seguir os passos:
 
 1. Instalar uma biblioteca de ambiente virtual: 
