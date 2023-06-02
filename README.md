@@ -1,4 +1,4 @@
-# LaneDetector
+# Lane Detector
 
 Para usar o repositório é necessário ter o Python instalado na sua máquina. Recomendo usar a IDE PyCharm e seguir os passos:
 
