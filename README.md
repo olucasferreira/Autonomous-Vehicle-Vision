@@ -30,4 +30,4 @@ Para usar o repositório é necessário ter o Python instalado na sua máquina. 
   `pip install -r requirements.txt` 
 
 5. Executar o arquivo:
-  `python camera.py`
+  `python vision.py`
